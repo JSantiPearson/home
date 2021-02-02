@@ -334,12 +334,12 @@ figure {
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn-black {
-            color: white;
-            border: 1px solid white;
+            color: black;
+            border: 1px solid black;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn-black:hover {
               background: transparent !important;
-              border: 1px solid white !important; }
+              border: 1px solid black !important; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: white;
             border: 1px solid white;
