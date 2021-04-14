@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-edit" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Finance Agent at Nintendo of America  <span>November 2020 - Present</span></h2>
+                        <h2>IT Support at Nintendo of America  <span>November 2020 - Present</span></h2>
                         <p>Since graduating into the pandemic, I have been doing IT work at Nintendo of America. My responsibilities primarily involve solving technical issues and bugs that our employees face when using private company software. I also handle user credentials management and assist in the investigation of fraud and unauthorized transactions.</p>
                       </div>
                     </div>
