@@ -32,11 +32,6 @@ export default class Sidebar extends Component {
                 <li><a href="mailto:JSantiPearson@gmail.com" target="_blank" rel="noopener noreferrer"><i className="icon-mail5"></i></a></li>
               </ul>
             </nav>
-            <div className="colorlib-footer">
-              <p><small>
-                More to come :)
-              </small></p>
-            </div>
           </aside>
         </div>
       </div>
