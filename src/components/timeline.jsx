@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-edit" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Strange Frontier Character Creator  <span>May 2021 - Present</span></h2>
+                        <h2>Strange Frontier Character Creator  <span>May 2020 - Present</span></h2>
                         <p>I am currently working on an Android and iOS application that utilizes the React Native JavaScript framework. The app allows the user to input information about their Tabletop RPG characters and create entries for them that display and modify their stats and equipment.</p>
                       </div>
                     </div>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-edit" />
                       </div>
                       <div className="timeline-label">
-                        <h2>IT Support at Nintendo of America  <span>November 2020 - Present</span></h2>
-                        <p>Since graduating into the pandemic, I have been doing IT work at Nintendo of America. My responsibilities primarily involve solving technical issues and bugs that our employees face when using private company software. I also handle user credentials management and assist in the investigation of fraud and unauthorized transactions.</p>
+                        <h2>Tech Support at Nintendo of America  <span>November 2020 - Present</span></h2>
+                        <p>Since graduating into the pandemic, I have been doing tech support work at Nintendo of America. My responsibilities primarily involve solving technical issues and bugs that our employees face when using private company software. I also handle user credentials management and assist in the investigation of fraud and unauthorized transactions.</p>
                       </div>
                     </div>
                   </article>
